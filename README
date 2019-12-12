@@ -1,0 +1,16 @@
+Project 10:
+Video Example Project
+using createVideo() and recording my own videos with my phone.
+Project 9:
+Audio Playback Project
+download audio to play it back, also creating my own audtio using record app on windows.
+used p5.Oscillator to create soudwaves to translate sound into visual information
+Project 8:
+Image and Text Project
+using the image function to upload .jpgs and mouse position and click to interact with them
+also uploading .pngs, and using transperancy
+using text to manipulate fonts and size, along with google fonts
+Project 7:
+Arrays project
+using for loops to add numbers into an array, i added 10 random numbers.
+using this i made a pumpking "halloween" background and had the random numbers i generated the "flame" inside the pumpkin.
